@@ -19,3 +19,10 @@ Running -
 - `react-native start` called in one terminal window
 - `react-native run-ios` called in another terminal window to launch the simulator
 - ... some waiting... (intial build)
+
+The versions used here, via `react-native --version` -
+
+```
+react-native-cli: 2.0.1
+react-native: 0.57.8
+```
