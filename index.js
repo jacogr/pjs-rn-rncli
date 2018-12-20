@@ -1,6 +1,9 @@
 /** @format */
 
+// Uint8Array replacement for Android
 import './polyfills';
+
+// Node-specific polyfill
 import 'node-libs-react-native/globals';
 
 import { AppRegistry, Platform } from 'react-native';
