@@ -10,7 +10,7 @@
     "babel-core": "^7.0.0-bridge.0"
   },
   "dependencies": {
-    "@polkadot/api": "^0.34.12",
+    "@polkadot/api": "^0.35.1",
     "node-libs-react-native": "^1.0.3",
     "react": "16.6.3",
     "react-native": "0.57.8",
